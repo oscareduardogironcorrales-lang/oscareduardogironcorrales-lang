@@ -48,7 +48,10 @@ Soy estudiante de <strong>Ingeniería en Sistemas</strong> en la <strong>UNICAH<
     <br>
     <br>
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" />
   </kbd>
+  <br>
+  <br>
   <kbd>
     <kbd>Bases de datos</kbd>
     <br>
@@ -56,6 +59,15 @@ Soy estudiante de <strong>Ingeniería en Sistemas</strong> en la <strong>UNICAH<
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Sistemas operativos</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" />
   </kbd>
   <kbd>
     <kbd>Otros</kbd>
@@ -63,7 +75,6 @@ Soy estudiante de <strong>Ingeniería en Sistemas</strong> en la <strong>UNICAH<
     <br>
     <img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" />
   </kbd>
   <br>
   <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/>
