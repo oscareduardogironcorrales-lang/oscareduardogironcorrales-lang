@@ -78,6 +78,18 @@ Soy estudiante de <strong>Ingeniería en Sistemas</strong> en la <strong>UNICAH<
   </kbd>
   <br>
   <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/>
+    <br>
+  <br>
+  <kbd>
+    <kbd>Herramientas de IA</kbd>
+    <br>
+    <br>
+    <img src="https://img.shields.io/badge/opencode-211E1E?style=flat-square" alt="opencode" />
+    <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
+    <img src="https://img.shields.io/badge/Codex-10A37F?style=flat-square" alt="Codex" />
+    <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+    <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square" alt="Antigravity" />
+  </kbd>
 </p>
 
 <div align="center">
