@@ -9,36 +9,12 @@
 
 </div>
 
----
 
-## 🙋‍♂️ Sobre mí
-
-- 🎓 Estudiante de Ingeniería en Sistemas (UNICAH)
-- 🔭 Actualmente aprendiendo: desarrollo móvil con Android y administración de sistemas
-- 🌱 Explorando herramientas de IA para programar más rápido
-- 📫 Contáctame: oscareduardogironcorrales@gmail.com
-
-
----
-
-## 🛠️ Tecnologías y herramientas
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
-<h1 align="center">Oii, eu sou a Julia Krisnarane 💌🌷<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h1>
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Back-End Developer</h3>
+<h1 align="center">Hola, Soy OSCAR GIRON<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h1>
+<h3 align="center">Estudiante de Ingeniería en Sistemas | Back-End Developer</h3>
 
 <p align="center">
-  <a href="mailto:jkrisnarane@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:oscareduardogironcorrales@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/julia-krisnarane-moraes-410417345/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
@@ -109,7 +85,7 @@ Sou uma desenvolvedora Back-End e estudante do 2° semestre de <strong>Análise 
 <br>
 <br>
 
-- 📫 Contato: **jkrisnarane@gmail.com**
+- 📫 Contato: **oscareduardogironcorrales@gmail.com**
 
 <p align="center"> 
 
