@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> ¡Hola! Soy Oscar Eduardo Girón
+# 👋<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> ¡Hola! Soy Oscar Eduardo Girón 💻✨
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Estudiante+de+Ingeniería+en+Sistemas;Apasionado+por+la+tecnología;Aprendiendo+cada+día+%F0%9F%9A%80)](https://git.io/typing-svg)
 
